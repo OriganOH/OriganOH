@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.search.brave.com/Y18Ib2jrKeESHZWRetLvqffkOxkeDuRwqlhYMLBv6HA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGZwcy5nZy9wZnBz/LzQyMzMtb3R0ZXIt/YmVhci1oYXQucG5n" alt="origan" width="150" />
+  <img src="https://cdn.discordapp.com/icons/1346213032904101920/6f6396416f2a3df138dfa9853aaae620.webp" alt="origan" width="150" />
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@ Age: 16
 Education: Cybersecurity Student 👨‍💻
 Languages: Web Languages | Low level languages | Others...
 Hobbies: Learning things
+Project(s): https://osinthub.fr
 ```
 ---
 
