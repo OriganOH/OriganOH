@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/1346213032904101920/6f6396416f2a3df138dfa9853aaae620.webp" alt="origan" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/217202989" alt="origan" width="150" />
 </p>
 
 <p align="center">
