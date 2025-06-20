@@ -16,7 +16,7 @@
 Name: Origan
 Age: 16
 Education: Cybersecurity Student 👨‍💻
-Languages: Web Languages | Low level languages | Others...
+Languages: Currently learning everything and continuously upgrading my skills
 Hobbies: Learning things
 Project(s): https://osinthub.fr
 ```
